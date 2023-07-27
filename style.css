@@ -1,0 +1,29 @@
+*{
+    background-color: teal;
+    padding: 0;
+    margin: 0;
+}
+
+.NavigationBar{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+/*
+.Lists li{
+    background-color: white;
+    list-style-type: none;
+}
+.Lists{
+    position: relative;
+    display: inline-block;
+    flex-direction: column;
+    flex: right;
+} */
+
+
+h1{
+    background-color: transparent;
+    text-align: center;
+}
